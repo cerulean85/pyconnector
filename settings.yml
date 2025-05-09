@@ -1,0 +1,15 @@
+db:
+  address: '127.0.0.1' # '211.195.9.229'
+  port: 3306,
+  name: 'anydb'
+  username: 'user'
+  password: 'pwd'
+  auto_commit: True
+
+es:
+  address: '127.0.0.1'
+  port: 9200
+
+kafka:
+  address: '127.0.0.1'
+  port: 9092
